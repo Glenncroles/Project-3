@@ -414,8 +414,8 @@ public class MapData
         System.out.println(e + " C at " + MESONET);
         
         System.out.println("=========================================================");
-
-        return " ";
+        //return
+        return " "; 
     }    
     
     
